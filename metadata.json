@@ -1,0 +1,7 @@
+{
+  "name": "CulinAI - Votre Chef Personnel",
+  "description": "Une application de cuisine intelligente qui gère vos recettes, propose des plats basés sur vos ingrédients restants et permet d'éditer vos photos de plats avec l'IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
